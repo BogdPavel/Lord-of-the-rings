@@ -1,0 +1,18 @@
+b   o o o                                                  b
+b                                                          b
+bbbbbbbbbbbu                                     bbbbbbbbbbb
+b          u                                               b
+b          u                                               b
+b          u                                               b
+b          u                                               b
+b          u   b                                           b
+bbbbbbbbbbbbbbbbbbu                                        b
+b                 u                                        b
+b                 u                                        b
+b                 u                                        b
+b                 u                                        b
+b                 u                                        b
+b12  p  p  p  p  12              12                        b
+b34              34              34                        b
+bggffffffffffffffggnnnnnnnnnnnnnngg                        b
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

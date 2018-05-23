@@ -1,0 +1,28 @@
+b                        o    o                          12b
+b                                                        34b
+b                                   b                    bbb
+b      ubbbbbbbbbbbb             bbbbbbbbbbbbbbbbbbbbbbbbbbb
+b      u                                                   b
+b      u      o                                            b
+b      u  12           o   o                               b
+b      u  34                                               b
+b      ubbbbbbbbbbbbbbnnbbnnbbbbbbbbbbbbbbbu               b
+b      u             bbbbbbbb              u              hb
+bo     u                            o   o  u      o  o    bb
+12     u  o  o    o                        u               b
+34     u                                   u  rsl  p  rsl  b
+ggsl  rsl  p  rsl  bb    bbbbbbbbbbbnnbbnnb12  g       g   b
+gggg   g       g   bb              bbbbbbbb34              b
+gggg               bb12                    gg              b
+ggggfffffffffffffffbb34                    ggffffffffffffffb
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+3
+800
+504
+1312
+56
+1782
+344
+1
+660
+96
